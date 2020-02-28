@@ -34,6 +34,9 @@ Including an example of how to use your role (for instance, with variables passe
       roles:
          - role: zemond.ansible_role_openam
 
+Tomcat start on http://domain:8080
+OpenAm available on http://domain:8080/openam
+
 License
 -------
 

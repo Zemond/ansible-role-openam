@@ -23,7 +23,7 @@ Dependencies
 - java-1.8.0-openjdk.x86_64
 - unzip
 
-This packets will automaticaly installed on task preinstall.
+This packets will automatically install on task preinstall.
 
 Example Playbook
 ----------------
